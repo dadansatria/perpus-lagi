@@ -41,6 +41,6 @@
     
 </table> <br> 
 <a href="tambah.php"> Tambah </a> <br>
-<a href="logout.php"> Log Out </a>
+<a href="login.php"> Log Out </a>
 <body>
 </html>
